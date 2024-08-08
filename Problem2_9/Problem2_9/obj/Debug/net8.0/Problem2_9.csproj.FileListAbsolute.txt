@@ -1,0 +1,14 @@
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.AssemblyInfoInputs.cache
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.AssemblyInfo.cs
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.csproj.CoreCompileInputs.cache
+D:\Algorithm\Problem2_9\Problem2_9\bin\Debug\net8.0\Problem2_9.exe
+D:\Algorithm\Problem2_9\Problem2_9\bin\Debug\net8.0\Problem2_9.deps.json
+D:\Algorithm\Problem2_9\Problem2_9\bin\Debug\net8.0\Problem2_9.runtimeconfig.json
+D:\Algorithm\Problem2_9\Problem2_9\bin\Debug\net8.0\Problem2_9.dll
+D:\Algorithm\Problem2_9\Problem2_9\bin\Debug\net8.0\Problem2_9.pdb
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.dll
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\refint\Problem2_9.dll
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.pdb
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\Problem2_9.genruntimeconfig.cache
+D:\Algorithm\Problem2_9\Problem2_9\obj\Debug\net8.0\ref\Problem2_9.dll
