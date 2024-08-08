@@ -1,0 +1,14 @@
+D:\Algorithm\Problem2_6\Problem2_6\bin\Debug\net8.0\Problem2_6.exe
+D:\Algorithm\Problem2_6\Problem2_6\bin\Debug\net8.0\Problem2_6.deps.json
+D:\Algorithm\Problem2_6\Problem2_6\bin\Debug\net8.0\Problem2_6.runtimeconfig.json
+D:\Algorithm\Problem2_6\Problem2_6\bin\Debug\net8.0\Problem2_6.dll
+D:\Algorithm\Problem2_6\Problem2_6\bin\Debug\net8.0\Problem2_6.pdb
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.AssemblyInfoInputs.cache
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.AssemblyInfo.cs
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.csproj.CoreCompileInputs.cache
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.dll
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\refint\Problem2_6.dll
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.pdb
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\Problem2_6.genruntimeconfig.cache
+D:\Algorithm\Problem2_6\Problem2_6\obj\Debug\net8.0\ref\Problem2_6.dll
